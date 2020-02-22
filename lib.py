@@ -8,7 +8,7 @@ def add(a, b):
 
 
 def add1(a):
-    return a +  1 
+    return a -  1
 
 
 def sub1(a):
